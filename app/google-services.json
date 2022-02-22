@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631168177528",
+    "project_id": "locationuzbekistan",
+    "storage_bucket": "locationuzbekistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631168177528:android:b4ec11dbb96a1f2f40e48d",
+        "android_client_info": {
+          "package_name": "com.example.locationuzbekistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631168177528-pk8o9ligpbo4i9dohhjbb2p6bbpidn1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2e4-52Wx9C466DcZIljr9oF-DZ05r2g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631168177528-pk8o9ligpbo4i9dohhjbb2p6bbpidn1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
